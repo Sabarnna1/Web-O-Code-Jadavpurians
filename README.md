@@ -1,4 +1,4 @@
-# Healthcare made easy
+# Healthcare Made Easy
 
 - *An E-commerce website for healthcare purposes where users can buy any medicine (either by just uploading a prescription or directly by searching for the medicine from the available list)* 
 - *Patients can book appointments with any type of doctor online according to their illness*
