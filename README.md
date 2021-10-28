@@ -8,6 +8,8 @@ https://weocode.herokuapp.com/
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **Node js**
+- **MongoDB**
 
 ## Steps to Contribute in this repository:
 - Fork the entire project and clone the entire project on your local system(Don't forget to star the repo)
