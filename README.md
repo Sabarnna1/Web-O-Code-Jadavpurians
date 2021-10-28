@@ -1,13 +1,13 @@
 # Healthcare made easy
 
-- An E-commerce website for healthcare purposes where users can buy any medicine (either by just uploading a prescription or directly by searching for the medicine from the available list) 
-- Patients can book appointments with any type of doctor online according to their illness
+- *An E-commerce website for healthcare purposes where users can buy any medicine (either by just uploading a prescription or directly by searching for the medicine from the available list)* 
+- *Patients can book appointments with any type of doctor online according to their illness*
 
 ## Source of Inspiration
-- Our foundation for this idea and source of Inspiration was an app named **"Sasta Sundor"** , which served as a saviour to many people in West Bengal during these tough pandemic times
+- *Our foundation for this idea and source of Inspiration was an app named **"Sasta Sundor"** , which served as a saviour to many people in West Bengal during these tough pandemic times*
 
-## Our goal of making these website
-- Since **"Sasta Sundor"** was only serving for West Bengal people, we wanted to make such a website which would serve the purpose on a wide scale so that all people can be benefitted with this facility
+## Our Goal of making these Website
+- *Since **"Sasta Sundor"** was only serving for West Bengal people, we wanted to make such a website which would serve the purpose on a wide scale so that all people can be benefitted with this facility*
 
 ## Website Link:-
 The website is deployed on heroku
