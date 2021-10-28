@@ -1,7 +1,7 @@
 # Healthcare made easy
 *An E-commerce website for healthcare where users can buy any medicine just by uploading a prescription and can even book appointments with any type of doctor online* 
 
-## Website:-
+## Website Link:-
 https://weocode.herokuapp.com/
 
 ## Technologies used:
@@ -9,7 +9,9 @@ https://weocode.herokuapp.com/
 - **CSS**
 - **JavaScript**
 - **Node js**
+- **React js**
 - **MongoDB**
+- **Heroku**
 
 ## Steps to Contribute in this repository:
 - Fork the entire project and clone the entire project on your local system(Don't forget to star the repo)
@@ -17,4 +19,8 @@ https://weocode.herokuapp.com/
 - Type **npm install** to download the node modules folder and all the required dependencies for this project
 - Create a separate branch and start making your desired changes there
 - Once you have done making the changes, commit your changes and make a pull request to the main repository.
- 
+## Snapshots 
+### Desktop version
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+### Mobile Version
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
