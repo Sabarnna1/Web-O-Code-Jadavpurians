@@ -11,7 +11,6 @@ https://weocode.herokuapp.com/
 - **JavaScript**
 - **Node js**
 - **React js**
-- **MongoDB**
 - **Heroku**
 
 ## Steps to Contribute in this repository:
