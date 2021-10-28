@@ -21,7 +21,9 @@ https://weocode.herokuapp.com/
 - Create a separate branch and start making your desired changes there
 - Once you have done making the changes, commit your changes and make a pull request to the main repository.
 ## Snapshots 
-### Desktop version
+
+## Desktop version
 ![desktop version](https://github.com/Sabarnna1/Web-O-Code-Jadavpurians/blob/main/desktop%20version.jpg)
-### Mobile Version
+
+## Mobile Version
 ![mobile version](https://github.com/Sabarnna1/Web-O-Code-Jadavpurians/blob/main/mobile%20version.jpeg)
